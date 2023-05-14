@@ -1,0 +1,138 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Ethar",
+      "lastName": "Abdelrahman",
+      "email": "etharelbosily@gmail.com",
+      "mobile": "01023244995",
+      "weight": 75,
+      "height": "175",
+      "bmi": 24.489795918367346,
+      "bmiResults": "Normal weight",
+      "gender": "female",
+      "requireTrainer": "Yes",
+      "package": [
+        "Monthly"
+      ],
+      "important": [
+        "Building Muscle",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-04-30T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Marwa",
+      "lastName": "Mohammed",
+      "email": "marwamohammed@gmail.com",
+      "mobile": "01121248283",
+      "weight": 50,
+      "height": "170",
+      "bmi": 17.301038062283737,
+      "bmiResults": "Underweight",
+      "gender": "female",
+      "requireTrainer": "Yes",
+      "package": [
+        "yearly"
+      ],
+      "important": [
+        "Suger Craving Body",
+        "Energy and Endurance",
+        "Fat reduction"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-05-03T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Manar",
+      "lastName": "Samir",
+      "email": "manarsamir@gmail.com",
+      "mobile": "01023599774",
+      "weight": 80,
+      "height": "170",
+      "bmi": 27.68166089965398,
+      "bmiResults": "Overweight",
+      "gender": "female",
+      "requireTrainer": "Yes",
+      "package": [
+        "Monthly"
+      ],
+      "important": [
+        "Fat reduction"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-05-07T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Reham",
+      "lastName": "Sayed",
+      "email": "rehamsayed@gmail.com",
+      "mobile": "01021551152",
+      "weight": 70,
+      "height": "170",
+      "bmi": 24.221453287197235,
+      "bmiResults": "Normal weight",
+      "gender": "female",
+      "requireTrainer": "Yes",
+      "package": [
+        "Qurterly"
+      ],
+      "important": [
+        "Building Muscle",
+        "Fitness",
+        "Energy and Endurance"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-05-07T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "Ahmed",
+      "lastName": "Ali",
+      "email": "ahmedali@gmail.com",
+      "mobile": "01121744283",
+      "weight": 70,
+      "height": "160",
+      "bmi": 27.343749999999996,
+      "bmiResults": "Overweight",
+      "gender": "male",
+      "requireTrainer": "Yes",
+      "package": [
+        "Monthly"
+      ],
+      "important": [
+        "Suger Craving Body",
+        "Building Muscle",
+        "Fat reduction"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-05-10T22:00:00.000Z",
+      "id": 5
+    },
+    {
+      "firstName": "Manar",
+      "lastName": "Ahmed",
+      "email": "manarahmed@gmail.com",
+      "mobile": "01542288991",
+      "weight": 60,
+      "height": "160",
+      "bmi": 23.437499999999996,
+      "bmiResults": "Normal weight",
+      "gender": "female",
+      "requireTrainer": "Yes",
+      "package": [
+        "Qurterly"
+      ],
+      "important": [
+        "Suger Craving Body",
+        "Building Muscle"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-05-12T22:00:00.000Z",
+      "id": 6
+    }
+  ]
+}
